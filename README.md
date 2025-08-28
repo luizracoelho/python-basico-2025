@@ -31,7 +31,7 @@ python -m venv .venv
 
 > **Windows**
 > ```bash
-> source .\.venv\Scripts\Activate
+> .\.venv\Scripts\Activate
 > ```
 
 O ideal é trabalharmos com um **venv** por projeto. Caso precisarmos trabalhar em outro projeto, devemos primeiramente desativar o ambiente virtual que estamos executando, para isso, basta digitar o seguinte comando:
